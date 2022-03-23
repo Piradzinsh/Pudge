@@ -1,1 +1,2 @@
 print("Arnis")
+print("Cock")
